@@ -1,7 +1,7 @@
 ﻿
 // MFCW0601AnimationDoc.cpp: CMFCW0601AnimationDoc 클래스의 구현
 //
-
+//
 #include "pch.h"
 #include "framework.h"
 // SHARED_HANDLERS는 미리 보기, 축소판 그림 및 검색 필터 처리기를 구현하는 ATL 프로젝트에서 정의할 수 있으며
